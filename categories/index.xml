@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>https://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on b1p01arc0nf1d3nc3 - Portfolio</title>
+    <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/categories/</link>
+    <description>Recent content in Categories on b1p01arc0nf1d3nc3 - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 </copyright>
+    <atom:link href="https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
