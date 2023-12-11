@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us" dir="ltr" class="scroll-smooth" data-default-appearance="light"
+<html lang="en-us" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
   data-auto-appearance="true"><head>
   <meta charset="utf-8" />
   
@@ -240,6 +240,16 @@
 
 
 
+
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
 
 
   

@@ -9,53 +9,64 @@
     <copyright>© 2023 </copyright>
     <lastBuildDate>Sat, 09 Dec 2023 19:07:57 -0400</lastBuildDate><atom:link href="https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aboutme</title>
-      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/aboutme/</link>
+      <title>About Me</title>
+      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/about-me/</link>
       <pubDate>Sat, 09 Dec 2023 19:07:57 -0400</pubDate>
       
-      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/aboutme/</guid>
+      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/about-me/</guid>
       <description>This will be a simple page describing a little bit about myself.</description>
       
     </item>
     
     <item>
-      <title>Thmredteampathway</title>
-      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/thmredteampathway/</link>
+      <title>THM Red Team Pathway</title>
+      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/thm-red-team-pathway/</link>
       <pubDate>Sat, 09 Dec 2023 19:07:47 -0400</pubDate>
       
-      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/thmredteampathway/</guid>
+      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/thm-red-team-pathway/</guid>
       <description>Review and experience of how the pathway added to my knowledge and what I want to focus on next.</description>
       
     </item>
     
     <item>
-      <title>Redvsblue</title>
-      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/redvsblue/</link>
+      <title>Red vs. Blue</title>
+      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/red-vs.-blue/</link>
       <pubDate>Sat, 09 Dec 2023 19:05:03 -0400</pubDate>
       
-      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/redvsblue/</guid>
+      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/red-vs.-blue/</guid>
       <description>This will be a walkthrough of the cross program project.</description>
       
     </item>
     
     <item>
-      <title>Dllsideloading</title>
-      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/dllsideloading/</link>
+      <title>Dll Sideloading</title>
+      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/dll-sideloading/</link>
       <pubDate>Sat, 09 Dec 2023 19:04:52 -0400</pubDate>
       
-      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/dllsideloading/</guid>
+      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/dll-sideloading/</guid>
       <description>This will be a walkthrough of the malware dev project.</description>
       
     </item>
     
     <item>
-      <title>Bandb</title>
-      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/bandb/</link>
+      <title>Backdoors and Breaches</title>
+      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/backdoors-and-breaches/</link>
       <pubDate>Sat, 09 Dec 2023 19:04:41 -0400</pubDate>
       
-      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/bandb/</guid>
+      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/backdoors-and-breaches/</guid>
       <description>How to play and enjoy Backdoors and Breaches #Backdoors and Breaches is a fantastic incident response activity that challenges participants to solve a multi-faceted cyber incident by making decisions and watching everything go wrong (well, at least some of the time).
-The activity if free to try and is made by the fabulous folks over at Blackhills Security. -LINK here- Rules: #Work as a team to discover all 4 cards to respond to the incident.</description>
+The activity if free to try and is made by the fabulous folks over at Blackhills Security. -LINK here- Adding flavor with customized companies helps players become more involved in the scenario while also providing scope for the activity.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/backdoors-and-breaches/featurehonkta.jpg" />
+    </item>
+    
+    <item>
+      <title>TheHive</title>
+      <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/thehive/</link>
+      <pubDate>Sat, 09 Dec 2023 19:04:27 -0400</pubDate>
+      
+      <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/thehive/</guid>
+      <description>During a work term, I was given the chance to build out some open source tools that can be used to create a streamlined security operations center. It was a very valuable experience and helped me develop a better understanding of tooling available to organizations that may have resource limitations.
+Here are some of the configuration steps and code that was used in the setup of the Hive server, a self-contained testing server to explore open-source SOC options.</description>
       
     </item>
     
