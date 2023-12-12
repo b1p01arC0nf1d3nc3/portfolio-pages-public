@@ -5,8 +5,8 @@
     <link>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/</link>
     <description>Recent content on b1p01arc0nf1d3nc3 - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2023 </copyright>
+    <language>en</language>
+    <copyright>© 2023 b1p01arc0nf1d3nc3</copyright>
     <lastBuildDate>Sat, 09 Dec 2023 19:07:57 -0400</lastBuildDate><atom:link href="https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
@@ -14,8 +14,7 @@
       <pubDate>Sat, 09 Dec 2023 19:07:57 -0400</pubDate>
       
       <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/about-me/</guid>
-      <description>Bio #Current cybersecurity student with a background in teaching looking to explore and learn more about threat hunting, red teaming, and incident response.
-First fell in love with technology as a youngster by being enthralled by the speed of a blue hedgehog darting about a screen (an excellent distraction device employed by family). Since then, have taken a roundabout journey into tech and currently working towards getting certified in the area of penetration testing.</description>
+      <description>Bio #Current cybersecurity student with a background in teaching looking to explore and learn more about threat hunting, red teaming, and incident response.</description>
       
     </item>
     
@@ -35,8 +34,7 @@ First fell in love with technology as a youngster by being enthralled by the spe
       <pubDate>Sat, 09 Dec 2023 19:05:03 -0400</pubDate>
       
       <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/red-vs.-blue/</guid>
-      <description>Systems vs. Security #During a cross-program project between systems administration and cyber security students, the cyber security students were tasked with breaking into a stand-alone server administered by the systems students. We broke off into teams and were given the IP address of our target server.
-Our team chose the name &amp;lsquo;Ping Pirates&amp;rsquo; and began enumerating the target machine. Using common tools such as nmap to find out which ports were open and what services were running, we discovered a limited range of ports and a dashboard running on a random ephemeral port.</description>
+      <description>Systems vs.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/red-vs.-blue/featureskull.png" />
     </item>
     
@@ -56,8 +54,7 @@ Our team chose the name &amp;lsquo;Ping Pirates&amp;rsquo; and began enumerating
       <pubDate>Sat, 09 Dec 2023 19:04:41 -0400</pubDate>
       
       <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/backdoors-and-breaches/</guid>
-      <description>How to play and enjoy Backdoors and Breaches #Backdoors and Breaches is a fantastic incident response activity that challenges participants to solve a multi-faceted cyber incident by making decisions and watching everything go wrong (well, at least some of the time).
-The activity if free to try and is made by the fabulous folks over at Black Hills Information Security, who can be found here. Amazingly, the activity is even hosted online for all to use, and the web version makes it easy to host a remote session without requiring extensive preparation (you can find out more about the different ways to play here).</description>
+      <description>How to play and enjoy Backdoors and Breaches #Backdoors and Breaches is a fantastic incident response activity that challenges participants to solve a multi-faceted cyber incident by making decisions and watching everything go wrong (well, at least some of the time).</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/backdoors-and-breaches/featurebb2.jpg" />
     </item>
     
@@ -67,8 +64,7 @@ The activity if free to try and is made by the fabulous folks over at Black Hill
       <pubDate>Sat, 09 Dec 2023 19:04:27 -0400</pubDate>
       
       <guid>https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/thehive/</guid>
-      <description>During a work term, I was given the chance to build out some open source tools that can be used to create a streamlined security operations center. It was a very valuable experience and helped me develop a better understanding of tooling available to organizations that may have resource limitations.
-Here are some of the configuration steps and code that was used in the setup of the Hive server, a self-contained testing server to explore open-source SOC options.</description>
+      <description>During a work term, I was given the chance to build out some open source tools that can be used to create a streamlined security operations center.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/posts/thehive/featureh.png" />
     </item>
     

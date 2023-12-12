@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b1p01arc0nf1d3nc3.github.io/portfolio-pages-public/sitemap.xml
